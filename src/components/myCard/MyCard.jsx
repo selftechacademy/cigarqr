@@ -105,6 +105,14 @@ export default function MyCard() {
           </Typography>
           <Typography>Akil is the best :)</Typography>
         </CardContent>
+        <CardContent>
+          <Typography>Please watch the video</Typography>
+          <iframe
+            class="mfp-iframe"
+            src="//player.vimeo.com/video/546716537?autoplay=1"
+            allowfullscreen="true"
+          ></iframe>
+        </CardContent>
       </Collapse>
     </Card>
   );
