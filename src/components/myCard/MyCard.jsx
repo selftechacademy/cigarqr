@@ -83,7 +83,7 @@ export default function MyCard() {
       </CardActions>
       <Collapse in={expanded} timeout="auto" unmountOnExit>
         <CardContent>
-          <Typography paragraph>Method:</Typography>
+          <Typography paragraph>Description:</Typography>
           <Typography paragraph>
             Voted #1 Cigar of the Free World by Cigar Aficionado.
           </Typography>
@@ -108,6 +108,7 @@ export default function MyCard() {
         <CardContent>
           <Typography>Please watch the video</Typography>
           <iframe
+            title="Rocky cigar"
             class="mfp-iframe"
             src="//player.vimeo.com/video/546716537?autoplay=1"
             allowfullscreen="true"
