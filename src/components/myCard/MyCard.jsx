@@ -13,7 +13,6 @@ import { red } from "@mui/material/colors";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import ShareIcon from "@mui/icons-material/Share";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import MoreVertIcon from "@mui/icons-material/MoreVert";
 import CigarShortInfo from "../cigarShortInfo/CigarShortInfo";
 import Cigar60 from "../../assets/images/rockyPatel60.jpeg";
 
