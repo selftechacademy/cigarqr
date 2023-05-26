@@ -85,31 +85,25 @@ export default function MyCard() {
         <CardContent>
           <Typography paragraph>Method:</Typography>
           <Typography paragraph>
-            Heat 1/2 cup of the broth in a pot until simmering, add saffron and
-            set aside for 10 minutes.
+            Voted #1 Cigar of the Free World by Cigar Aficionado.
           </Typography>
           <Typography paragraph>
-            Voted #1 Cigar of the Free World by Cigar Aficionado. Join us in
-            celebrating Rocky Patel’s 60th birthday with a cigar, unlike
-            anything we’ve ever rolled. Quality comes with age, and after 60
-            beautiful years of life, Rocky Patel’s passion for premium cigars
+            Join us in celebrating Rocky Patel’s 60th birthday with a cigar,
+            unlike anything we’ve ever rolled. Quality comes with age, and after
+            60 beautiful years of life, Rocky Patel’s passion for premium cigars
             has never been more refined. To celebrate his unbridled love for
             signature cigars, and in honor of this momentous occasion, we’re
             proud to present… The Rocky Patel Sixty. Aged Minimum 2 years after
             rolling at our factories in Esteli, Nicaragua.
           </Typography>
           <Typography paragraph>
-            Add rice and stir very gently to distribute. Top with artichokes and
-            peppers, and cook without stirring, until most of the liquid is
-            absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved
-            shrimp and mussels, tucking them down into the rice, and cook again
-            without stirring, until mussels have opened and rice is just tender,
-            5 to 7 minutes more. (Discard any mussels that don&apos;t open.)
+            Hands down the best coffee-infused cigar available on the market
+            today. The finest tobaccos from Nicaragua deliver in a truly
+            unforgettable way. And to top it all off, the Java Maduro is draped
+            in a thick Brazilian wrapper, making it the perfect companion to a
+            rich cup of joe.
           </Typography>
-          <Typography>
-            Set aside off of the heat to let rest for 10 minutes, and then
-            serve.
-          </Typography>
+          <Typography>Akil is the best :)</Typography>
         </CardContent>
       </Collapse>
     </Card>
